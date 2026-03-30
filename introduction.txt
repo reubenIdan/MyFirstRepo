@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is <name>, and I am a software developer with a passion for building meaningful applications. I enjoy learning new technologies and solving complex problems through code.
+
+In my free time, I like to contribute to open-source projects and explore different programming languages. I believe in continuous learning and strive to improve my skills every day.
