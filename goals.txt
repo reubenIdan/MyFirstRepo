@@ -1,0 +1,10 @@
+My Personal and Academic Goals for Next Year
+
+Achieve full-stack engineering proficiency by mastering Django, Django REST Framework, and React, and shipping production-ready applications.
+Strengthen system design and backend architecture skills through real-world projects and scalable deployments.
+Advance DataHaul toward product-market fit, including user acquisition, revenue validation, and operational structure.
+Secure a high-impact role or internship in software engineering or business development within a tech-driven organization.
+Deepen expertise in data science and analytics, with practical applications in agri-tech and digital platforms.
+Build a strong professional brand, including publishing technical blogs, showcasing projects, and optimizing LinkedIn presence.
+Prepare for and progress in postgraduate studies, aligning with long-term leadership and innovation goals.
+Develop leadership and communication skills through collaboration, mentorship, and participation in professional communities.
